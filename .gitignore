@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Model files
+*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
